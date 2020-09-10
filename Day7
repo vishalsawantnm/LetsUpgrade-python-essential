@@ -1,0 +1,9 @@
+# Example 1: No index specified
+a = ["bee", "moth", "ant"]
+print(a)
+a.pop()
+print(a)
+
+# Example 2: Index specified
+a = ["bee", "moth", "ant"]
+print(a)
