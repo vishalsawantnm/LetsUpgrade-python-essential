@@ -1,0 +1,7 @@
+a = ["bee", "moth", "ant"]
+print(a)
+a.remove("moth")
+print(a)
+RESULT
+['bee', 'moth', 'ant']
+['bee', 'ant']
